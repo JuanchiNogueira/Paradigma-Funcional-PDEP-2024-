@@ -1,6 +1,32 @@
 module Spec where
 import PdePreludat
-import Library
+
+import Library 
+
+import Alfajores
+
+import MinecraftParcial
+
+import ParcialDune
+
+import ParcialMario
+
+import ParcialPlagio
+
+import HeroesLeyenda
+
+import Vacaciones
+
+import Fmi 
+
+import PisteoComoCampeon 
+
+import EscuelitaThanos
+
+import HaskellEspacial
+
+import SamuraiJack
+
 import Test.Hspec
 
 correrTests :: IO ()
